@@ -35,7 +35,7 @@ export default async function BlogPage() {
               <div className="w-full flex flex-col">
                 <p className="tracking-tight">Manav resume</p>
                 <p className="h-6 text-xs text-muted-foreground">
-                  {post.metadata.publishedAt}
+                  2025-06-20
                 </p>
               </div>
             </Link>
